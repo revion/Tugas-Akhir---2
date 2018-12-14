@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 9ecf1e59796a8994a9b746bdf1533040
+timeCreated: 1509015194
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ChamferBo0
+    100002: ChamferBo0 1
+    100004: ChamferBox_1
+    100006: ChamferBox_1 1
+    100008: ChamferCy1
+    100010: ChamferCy1 1
+    100012: ChamferCy1 2
+    100014: ChamferCy1 3
+    100016: ChamferCy3
+    100018: ChamferCy3 1
+    100020: ChamferCy5
+    100022: ChamferCy5 1
+    100024: ChamferCyl
+    100026: ChamferCyl 1
+    100028: ChamferCyl 2
+    100030: ChamferCyl 3
+    100032: Component_1
+    100034: Component_1 1
+    100036: hgjhg
+    100038: hgjhg02
+    100040: hgjhg02 1
+    100042: hgjhg03
+    100044: hgjhg04
+    100046: hgjhg04 1
+    100048: hgjhg06
+    100050: hgjhg06 1
+    100052: instance_0
+    100054: instance_1
+    100056: instance_10
+    100058: instance_11
+    100060: instance_12
+    100062: instance_13
+    100064: instance_14
+    100066: instance_15
+    100068: instance_16
+    100070: instance_17
+    100072: instance_18
+    100074: instance_19
+    100076: instance_2
+    100078: instance_20
+    100080: instance_21
+    100082: instance_22
+    100084: instance_23
+    100086: instance_24
+    100088: instance_25
+    100090: instance_26
+    100092: instance_27
+    100094: instance_28
+    100096: instance_29
+    100098: instance_3
+    100100: instance_30
+    100102: instance_31
+    100104: instance_32
+    100106: instance_4
+    100108: instance_5
+    100110: instance_6
+    100112: instance_7
+    100114: instance_8
+    100116: instance_9
+    100118: //RootNode
+    100120: Rectangle2
+    100122: Rectangle2 1
+    100124: Rectangle2 2
+    100126: Rectangle2 3
+    100128: Rectangle5
+    100130: Rectangle5 1
+    100132: skp9A
+    100134: skp_camera_Last_Saved_SketchUp_View
+    400000: ChamferBo0
+    400002: ChamferBo0 1
+    400004: ChamferBox_1
+    400006: ChamferBox_1 1
+    400008: ChamferCy1
+    400010: ChamferCy1 1
+    400012: ChamferCy1 2
+    400014: ChamferCy1 3
+    400016: ChamferCy3
+    400018: ChamferCy3 1
+    400020: ChamferCy5
+    400022: ChamferCy5 1
+    400024: ChamferCyl
+    400026: ChamferCyl 1
+    400028: ChamferCyl 2
+    400030: ChamferCyl 3
+    400032: Component_1
+    400034: Component_1 1
+    400036: hgjhg
+    400038: hgjhg02
+    400040: hgjhg02 1
+    400042: hgjhg03
+    400044: hgjhg04
+    400046: hgjhg04 1
+    400048: hgjhg06
+    400050: hgjhg06 1
+    400052: instance_0
+    400054: instance_1
+    400056: instance_10
+    400058: instance_11
+    400060: instance_12
+    400062: instance_13
+    400064: instance_14
+    400066: instance_15
+    400068: instance_16
+    400070: instance_17
+    400072: instance_18
+    400074: instance_19
+    400076: instance_2
+    400078: instance_20
+    400080: instance_21
+    400082: instance_22
+    400084: instance_23
+    400086: instance_24
+    400088: instance_25
+    400090: instance_26
+    400092: instance_27
+    400094: instance_28
+    400096: instance_29
+    400098: instance_3
+    400100: instance_30
+    400102: instance_31
+    400104: instance_32
+    400106: instance_4
+    400108: instance_5
+    400110: instance_6
+    400112: instance_7
+    400114: instance_8
+    400116: instance_9
+    400118: //RootNode
+    400120: Rectangle2
+    400122: Rectangle2 1
+    400124: Rectangle2 2
+    400126: Rectangle2 3
+    400128: Rectangle5
+    400130: Rectangle5 1
+    400132: skp9A
+    400134: skp_camera_Last_Saved_SketchUp_View
+    2300000: ChamferBo0
+    2300002: ChamferBo0 1
+    2300004: ChamferBox_1
+    2300006: ChamferBox_1 1
+    2300008: ChamferCy1
+    2300010: ChamferCy1 1
+    2300012: ChamferCy1 2
+    2300014: ChamferCy1 3
+    2300016: ChamferCy3
+    2300018: ChamferCy3 1
+    2300020: ChamferCy5
+    2300022: ChamferCy5 1
+    2300024: ChamferCyl
+    2300026: ChamferCyl 1
+    2300028: ChamferCyl 2
+    2300030: ChamferCyl 3
+    2300032: Component_1
+    2300034: Component_1 1
+    2300036: hgjhg
+    2300038: hgjhg02
+    2300040: hgjhg02 1
+    2300042: hgjhg03
+    2300044: hgjhg04
+    2300046: hgjhg04 1
+    2300048: hgjhg06
+    2300050: hgjhg06 1
+    2300052: Rectangle2
+    2300054: Rectangle2 1
+    2300056: Rectangle2 2
+    2300058: Rectangle2 3
+    2300060: Rectangle5
+    2300062: Rectangle5 1
+    3300000: ChamferBo0
+    3300002: ChamferBo0 1
+    3300004: ChamferBox_1
+    3300006: ChamferBox_1 1
+    3300008: ChamferCy1
+    3300010: ChamferCy1 1
+    3300012: ChamferCy1 2
+    3300014: ChamferCy1 3
+    3300016: ChamferCy3
+    3300018: ChamferCy3 1
+    3300020: ChamferCy5
+    3300022: ChamferCy5 1
+    3300024: ChamferCyl
+    3300026: ChamferCyl 1
+    3300028: ChamferCyl 2
+    3300030: ChamferCyl 3
+    3300032: Component_1
+    3300034: Component_1 1
+    3300036: hgjhg
+    3300038: hgjhg02
+    3300040: hgjhg02 1
+    3300042: hgjhg03
+    3300044: hgjhg04
+    3300046: hgjhg04 1
+    3300048: hgjhg06
+    3300050: hgjhg06 1
+    3300052: Rectangle2
+    3300054: Rectangle2 1
+    3300056: Rectangle2 2
+    3300058: Rectangle2 3
+    3300060: Rectangle5
+    3300062: Rectangle5 1
+    4300000: ChamferCy1
+    4300002: ChamferCyl
+    4300004: Rectangle2
+    4300006: hgjhg04
+    4300008: hgjhg06
+    4300010: ChamferBo0
+    4300012: ChamferCy3
+    4300014: ChamferCy5
+    4300016: Rectangle5
+    4300018: hgjhg
+    4300020: hgjhg02
+    4300022: hgjhg03
+    4300024: ChamferBox_1
+    4300026: Component_1
+    4300028: hgjhg04
+    4300030: Rectangle2
+    4300032: ChamferCyl
+    4300034: hgjhg06
+    4300036: ChamferBox_1
+    4300038: Component_1
+    4300040: ChamferCy1
+    6400000: ChamferBo0
+    6400002: ChamferBo0 1
+    6400004: ChamferBox_1
+    6400006: ChamferBox_1 1
+    6400008: ChamferCy1
+    6400010: ChamferCy1 1
+    6400012: ChamferCy1 2
+    6400014: ChamferCy1 3
+    6400016: ChamferCy3
+    6400018: ChamferCy3 1
+    6400020: ChamferCy5
+    6400022: ChamferCy5 1
+    6400024: ChamferCyl
+    6400026: ChamferCyl 1
+    6400028: ChamferCyl 2
+    6400030: ChamferCyl 3
+    6400032: Component_1
+    6400034: Component_1 1
+    6400036: hgjhg
+    6400038: hgjhg02
+    6400040: hgjhg02 1
+    6400042: hgjhg03
+    6400044: hgjhg04
+    6400046: hgjhg04 1
+    6400048: hgjhg06
+    6400050: hgjhg06 1
+    6400052: Rectangle2
+    6400054: Rectangle2 1
+    6400056: Rectangle2 2
+    6400058: Rectangle2 3
+    6400060: Rectangle5
+    6400062: Rectangle5 1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

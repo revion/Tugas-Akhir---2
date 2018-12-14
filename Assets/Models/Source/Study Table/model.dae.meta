@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 364517de54c128542941e577450afd3a
+timeCreated: 1495901387
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bail_handle
+    100002: bail_handle 1
+    100004: bail_handle 2
+    100006: bail_handle 3
+    100008: Brass_drawer_pull_1
+    100010: Brass_drawer_pull_1 1
+    100012: Brass_drawer_pull_1 2
+    100014: Brass_drawer_pull_1 3
+    100016: cylinder
+    100018: group_0
+    100020: group_1
+    100022: group_10
+    100024: group_11
+    100026: group_12
+    100028: group_13
+    100030: group_14
+    100032: group_15
+    100034: group_16
+    100036: group_17
+    100038: group_18
+    100040: group_19
+    100042: group_2
+    100044: group_20
+    100046: group_21
+    100048: group_22
+    100050: group_23
+    100052: group_24
+    100054: group_25
+    100056: group_26
+    100058: group_27
+    100060: group_27 1
+    100062: group_28
+    100064: group_29
+    100066: group_3
+    100068: group_30
+    100070: group_4
+    100072: group_5
+    100074: group_6
+    100076: group_6 1
+    100078: group_6 2
+    100080: group_6 3
+    100082: group_7
+    100084: group_8
+    100086: group_9
+    100088: ID134
+    100090: ID155
+    100092: ID176
+    100094: ID197
+    100096: ID240
+    100098: ID261
+    100100: ID28
+    100102: ID282
+    100104: ID327
+    100106: ID372
+    100108: ID372 1
+    100110: ID372 2
+    100112: ID376
+    100114: ID376 1
+    100116: ID376 2
+    100118: ID380
+    100120: ID380 1
+    100122: ID380 2
+    100124: ID384
+    100126: ID384 1
+    100128: ID384 2
+    100130: ID432
+    100132: ID45
+    100134: ID479
+    100136: ID483
+    100138: ID487
+    100140: ID491
+    100142: ID519
+    100144: ID540
+    100146: ID544
+    100148: ID55
+    100150: ID65
+    100152: instance_0
+    100154: instance_1
+    100156: instance_1 1
+    100158: instance_1 2
+    100160: instance_1 3
+    100162: instance_2
+    100164: instance_2 1
+    100166: instance_3
+    100168: //RootNode
+    100170: skp_camera_Last_Saved_SketchUp_View
+    100172: skp_camera_Scene_1
+    400000: bail_handle
+    400002: bail_handle 1
+    400004: bail_handle 2
+    400006: bail_handle 3
+    400008: Brass_drawer_pull_1
+    400010: Brass_drawer_pull_1 1
+    400012: Brass_drawer_pull_1 2
+    400014: Brass_drawer_pull_1 3
+    400016: cylinder
+    400018: group_0
+    400020: group_1
+    400022: group_10
+    400024: group_11
+    400026: group_12
+    400028: group_13
+    400030: group_14
+    400032: group_15
+    400034: group_16
+    400036: group_17
+    400038: group_18
+    400040: group_19
+    400042: group_2
+    400044: group_20
+    400046: group_21
+    400048: group_22
+    400050: group_23
+    400052: group_24
+    400054: group_25
+    400056: group_26
+    400058: group_27
+    400060: group_27 1
+    400062: group_28
+    400064: group_29
+    400066: group_3
+    400068: group_30
+    400070: group_4
+    400072: group_5
+    400074: group_6
+    400076: group_6 1
+    400078: group_6 2
+    400080: group_6 3
+    400082: group_7
+    400084: group_8
+    400086: group_9
+    400088: ID134
+    400090: ID155
+    400092: ID176
+    400094: ID197
+    400096: ID240
+    400098: ID261
+    400100: ID28
+    400102: ID282
+    400104: ID327
+    400106: ID372
+    400108: ID372 1
+    400110: ID372 2
+    400112: ID376
+    400114: ID376 1
+    400116: ID376 2
+    400118: ID380
+    400120: ID380 1
+    400122: ID380 2
+    400124: ID384
+    400126: ID384 1
+    400128: ID384 2
+    400130: ID432
+    400132: ID45
+    400134: ID479
+    400136: ID483
+    400138: ID487
+    400140: ID491
+    400142: ID519
+    400144: ID540
+    400146: ID544
+    400148: ID55
+    400150: ID65
+    400152: instance_0
+    400154: instance_1
+    400156: instance_1 1
+    400158: instance_1 2
+    400160: instance_1 3
+    400162: instance_2
+    400164: instance_2 1
+    400166: instance_3
+    400168: //RootNode
+    400170: skp_camera_Last_Saved_SketchUp_View
+    400172: skp_camera_Scene_1
+    2300000: bail_handle
+    2300002: bail_handle 1
+    2300004: bail_handle 2
+    2300006: bail_handle 3
+    2300008: group_1
+    2300010: group_10
+    2300012: group_11
+    2300014: group_12
+    2300016: group_13
+    2300018: group_14
+    2300020: group_15
+    2300022: group_16
+    2300024: group_17
+    2300026: group_19
+    2300028: group_2
+    2300030: group_20
+    2300032: group_21
+    2300034: group_22
+    2300036: group_23
+    2300038: group_24
+    2300040: group_25
+    2300042: group_27
+    2300044: group_27 1
+    2300046: group_29
+    2300048: group_3
+    2300050: group_30
+    2300052: group_6
+    2300054: group_6 1
+    2300056: group_6 2
+    2300058: group_6 3
+    2300060: ID134
+    2300062: ID155
+    2300064: ID176
+    2300066: ID197
+    2300068: ID240
+    2300070: ID261
+    2300072: ID282
+    2300074: ID327
+    2300076: ID432
+    2300078: ID45
+    2300080: ID519
+    2300082: ID55
+    2300084: ID65
+    2300086: //RootNode
+    3300000: bail_handle
+    3300002: bail_handle 1
+    3300004: bail_handle 2
+    3300006: bail_handle 3
+    3300008: group_1
+    3300010: group_10
+    3300012: group_11
+    3300014: group_12
+    3300016: group_13
+    3300018: group_14
+    3300020: group_15
+    3300022: group_16
+    3300024: group_17
+    3300026: group_19
+    3300028: group_2
+    3300030: group_20
+    3300032: group_21
+    3300034: group_22
+    3300036: group_23
+    3300038: group_24
+    3300040: group_25
+    3300042: group_27
+    3300044: group_27 1
+    3300046: group_29
+    3300048: group_3
+    3300050: group_30
+    3300052: group_6
+    3300054: group_6 1
+    3300056: group_6 2
+    3300058: group_6 3
+    3300060: ID134
+    3300062: ID155
+    3300064: ID176
+    3300066: ID197
+    3300068: ID240
+    3300070: ID261
+    3300072: ID282
+    3300074: ID327
+    3300076: ID432
+    3300078: ID45
+    3300080: ID519
+    3300082: ID55
+    3300084: ID65
+    3300086: //RootNode
+    4300000: SketchUp
+    4300002: group_1
+    4300004: group_2
+    4300006: ID134
+    4300008: group_3
+    4300010: ID45
+    4300012: ID55
+    4300014: ID65
+    4300016: group_6
+    4300018: group_6
+    4300020: group_6
+    4300022: group_6
+    4300024: group_10
+    4300026: ID155
+    4300028: group_11
+    4300030: ID176
+    4300032: group_12
+    4300034: ID197
+    4300036: group_13
+    4300038: group_14
+    4300040: group_15
+    4300042: ID240
+    4300044: group_16
+    4300046: ID261
+    4300048: group_17
+    4300050: ID282
+    4300052: group_19
+    4300054: group_20
+    4300056: group_21
+    4300058: ID327
+    4300060: bail_handle
+    4300062: group_22
+    4300064: group_23
+    4300066: group_24
+    4300068: group_25
+    4300070: ID432
+    4300072: group_27
+    4300074: group_27
+    4300076: bail_handle
+    4300078: group_29
+    4300080: group_30
+    4300082: ID519
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

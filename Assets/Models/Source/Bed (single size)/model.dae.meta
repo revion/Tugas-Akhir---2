@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 59c195edd4f49d04b93d3da104b9f24c
+timeCreated: 1495899007
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: default
+    100002: default 1
+    100004: default 10
+    100006: default 2
+    100008: default 3
+    100010: default 4
+    100012: default 5
+    100014: default 6
+    100016: default 7
+    100018: default 8
+    100020: default 9
+    100022: default_Defintion
+    100024: default_Defintion_1
+    100026: default_Defintion_2
+    100028: default_Defintion_3
+    100030: default_Defintion_4
+    100032: default_Defintion_5
+    100034: default_Defintion_6
+    100036: default_Defintion_7
+    100038: default_Defintion_8
+    100040: ID97
+    100042: image_0
+    100044: image_1
+    100046: instance_0
+    100048: instance_1
+    100050: //RootNode
+    100052: SimLab
+    100054: skp_camera_Last_Saved_SketchUp_View
+    100056: skp_camera_Scene_1
+    100058: TEMP
+    400000: default
+    400002: default 1
+    400004: default 10
+    400006: default 2
+    400008: default 3
+    400010: default 4
+    400012: default 5
+    400014: default 6
+    400016: default 7
+    400018: default 8
+    400020: default 9
+    400022: default_Defintion
+    400024: default_Defintion_1
+    400026: default_Defintion_2
+    400028: default_Defintion_3
+    400030: default_Defintion_4
+    400032: default_Defintion_5
+    400034: default_Defintion_6
+    400036: default_Defintion_7
+    400038: default_Defintion_8
+    400040: ID97
+    400042: image_0
+    400044: image_1
+    400046: instance_0
+    400048: instance_1
+    400050: //RootNode
+    400052: SimLab
+    400054: skp_camera_Last_Saved_SketchUp_View
+    400056: skp_camera_Scene_1
+    400058: TEMP
+    2300000: default_Defintion
+    2300002: default_Defintion_1
+    2300004: default_Defintion_2
+    2300006: default_Defintion_3
+    2300008: default_Defintion_4
+    2300010: default_Defintion_5
+    2300012: default_Defintion_6
+    2300014: default_Defintion_7
+    2300016: default_Defintion_8
+    2300018: ID97
+    2300020: image_0
+    2300022: image_1
+    3300000: default_Defintion
+    3300002: default_Defintion_1
+    3300004: default_Defintion_2
+    3300006: default_Defintion_3
+    3300008: default_Defintion_4
+    3300010: default_Defintion_5
+    3300012: default_Defintion_6
+    3300014: default_Defintion_7
+    3300016: default_Defintion_8
+    3300018: ID97
+    3300020: image_0
+    3300022: image_1
+    4300000: default_Defintion
+    4300002: default_Defintion_1
+    4300004: default_Defintion_2
+    4300006: default_Defintion_3
+    4300008: default_Defintion_4
+    4300010: default_Defintion_5
+    4300012: default_Defintion_6
+    4300014: ID97
+    4300016: default_Defintion_7
+    4300018: default_Defintion_8
+    4300020: image_0
+    4300022: image_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
